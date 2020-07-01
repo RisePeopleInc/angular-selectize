@@ -1,5 +1,8 @@
 {
-  "name": "angular-selectize2",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "name": "@risepeopleinc/angular-selectize2",
   "keywords": [
     "select",
     "ui",
@@ -18,7 +21,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/machineboy2045/angular-selectize.git"
+    "url": "git://github.com/RisePeopleInc/angular-selectize.git"
   },
   "dependencies": {
     "selectize": ">=0.12.1"
